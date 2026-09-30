@@ -1,0 +1,5 @@
+ultralytics>=8.3.0
+streamlit>=1.35.0
+opencv-python>=4.9.0
+pandas>=2.0.0
+lap>=0.5.12
